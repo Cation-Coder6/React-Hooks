@@ -1,8 +1,9 @@
 import React from "react";
+import Setup from "./useState/5-useState-counter";
 function App() {
   return (
     <div className="container">
-      <h2>Advanced Tutorial</h2>
+      <Setup />
     </div>
   );
 }
