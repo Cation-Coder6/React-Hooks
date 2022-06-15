@@ -1,5 +1,5 @@
 import React from "react";
-import Setup from "./1-useState/setup/5-useState-counter";
+import Setup from "./4-forms/setup/2-multiple-inputs";
 function App() {
   return (
     <div className="container">
