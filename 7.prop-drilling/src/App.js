@@ -1,5 +1,5 @@
 import React from "react";
-import Setup from "./1-useState/setup/5-useState-counter";
+import Setup from "./7-prop-drilling/setup/1-prop-drilling";
 function App() {
   return (
     <div className="container">
